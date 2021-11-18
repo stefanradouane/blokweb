@@ -16,14 +16,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Stefan Radouane
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+Mijn start niveau is de blauwe piste, ik vind coderen nog best wel lastig. Hoewel ik het wel heel leuk vind. Als ik code eenmaal doorheb dan kan ik het ook wel een beetje. Daarom ga ik ondanks dat mijn start niveau blauw is toch een poging doen op de rode piste. Ik wil namelijk beter worden in FED en daarom wil ik mijzelf uitdagen om het lastiger te maken voor mijzelf.
 
 #### Je focus:
 hier je focus (kies uit responsive óf surface plane)
- 
+ Ik ga mij focussen om de hele website responsive te maken. Ik vind dit belangrijker dan extra aandacht aan de surface laag. Ik ga mijn focus dus leggen om de hele website responsive te maken
 </details>
 
 
@@ -37,14 +37,15 @@ hier je focus (kies uit responsive óf surface plane)
 
 ### Je opdracht:
 link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-
+https://www.gall.nl/?utm_source=pfh&utm_medium=affiliate&utm_campaign=startpaginahome
+dit is de website van de gall en gall
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Homepagina 
+<img src="images/homepagina.png" width="375px" alt="Dit is de homepagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Detailpagina fles drank
+<img src="images/detailpagina.png" width="375px" alt="Dit is de productpagina">
  
 </details>
 
