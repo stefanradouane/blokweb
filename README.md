@@ -80,11 +80,11 @@ Nog typen...
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| Rosella        | Hong               | Ilias        | Stefan           |
-| section zonder heading | transparante animatie achtergrond | mediaqueries | A centreren in li |
-| h3 twee worden apart stylen | maps op website | online font  | items aan dropdown toevoegen |
-| crop img asymmetrisch            | img grijswaarde maken css                | flexbox met een kolom | Lijst onzichtbaar maken met knop |
+| student 1      | Rosella      | section zonder heading            | h3 twee worden apart stylen  | crop img asymmetrisch            |
+| student 2      | Hong         | transparante animatie achtergrond | maps op website              | img grijswaarde maken css        |
+| student 3      | Ilias        | mediaqueries                      | online font                  | flexbox met een kolom            |
+| student 4      | Stefan       | A centreren in li                 | items aan dropdown toevoegen | Lijst onzichtbaar maken met knop |
+
 
 
 ### Verslag van meeting
