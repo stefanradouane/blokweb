@@ -1098,11 +1098,13 @@ details[open] summary{
     transition: 1s ease;
 }
 .low{
-    bottom: -41%;
+    bottom: 0;
+    transform:translateY(83%);
 }
 
 .up{
     bottom:0;
+    transform:translateY(0);
 }
 
 .pauze, .start{
