@@ -4,6 +4,8 @@
     padding:0;
     font-family: 'DINPro', sans-serif;
     list-style: none;
+    max-width:375px;
+
 }
 
 
@@ -36,6 +38,7 @@
 
 body{
     background-color: var(--witte-kleur);
+    width:375px;
 }
 
 h1,h2,h3,h4,h5,h6,p,a{
@@ -1098,11 +1101,13 @@ details[open] summary{
     transition: 1s ease;
 }
 .low{
-    bottom: -41%;
+    bottom: 0;
+    
 }
 
 .up{
     bottom:0;
+    transform:translateY(0);
 }
 
 .pauze, .start{
