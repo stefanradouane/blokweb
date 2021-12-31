@@ -45,7 +45,7 @@ h1,h2,h3,h4,h5,h6,p,a{
     color:var(--tekst-kleur);
 }
 
-footer h2,h3{
+footer h2, footer h3{
     color:var(--button-tekst);
 }
 
